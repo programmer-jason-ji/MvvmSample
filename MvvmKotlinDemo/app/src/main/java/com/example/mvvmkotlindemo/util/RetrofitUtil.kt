@@ -13,7 +13,7 @@ class RetrofitUtil {
 
     companion object{
 
-        private val BASE_URL:String = "https://google.com"
+        private val BASE_URL:String = "https://google.com/"
 
         private val httpClient:OkHttpClient.Builder = OkHttpClient.Builder()
 
